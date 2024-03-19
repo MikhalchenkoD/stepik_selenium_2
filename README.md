@@ -14,17 +14,16 @@ source venv/bin/activate
 ```
 # Установка зависимостей
 ```bash
+cd stepik_selenium_2
 pip install -r requirements.txt
 ```
 
 # Запуск теста (Windows)
 ```bash
-cd stepik_selenium_2
 python test.py
 ```
 
 # Запуск теста (Linux)
 ```bash
-cd stepik_selenium_2
 python3 test.py
 ```
